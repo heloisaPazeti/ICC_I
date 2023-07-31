@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685198808 source:d:\college\lab icc\buildmatriz\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1685198808 source:d:\faculdade\lab icc\buildmatriz\main.c
+	<stdio.h>
+	<stdlib.h>
+

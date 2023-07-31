@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687114948 source:d:\college\lab icc\exchatos\cadastroaluno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

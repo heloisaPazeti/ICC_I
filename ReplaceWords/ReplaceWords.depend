@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687131078 source:d:\faculdade\lab icc\replacewords\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

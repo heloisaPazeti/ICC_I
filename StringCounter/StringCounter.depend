@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1686881338 source:d:\college\lab icc\exlegais\stringcounter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687113324 source:d:\faculdade\lab icc\exlegais\stringcounter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687113324 source:d:\faculdade\lab icc\stringcounter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

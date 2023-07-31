@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1685706366 source:e:\college\lab icc\structclientsandsearch\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1685706366 source:d:\college\lab icc\exlegais\structclientsandsearch\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

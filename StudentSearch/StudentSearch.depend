@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686883852 source:d:\college\lab icc\exchatos\studentsearch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687113952 source:d:\faculdade\lab icc\exchatos\studentsearch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
